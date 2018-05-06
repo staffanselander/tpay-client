@@ -1,0 +1,20 @@
+{
+    "result": 1,
+    "status": "correct",
+    "error_code": "none",
+    "start_time": "2017-06-28 15:31:46",
+    "payment_time": "2017-06-28 15:35:40",
+    "chargeback_time": "2017-06-28 15:35:40",
+    "channel": 21,
+    "test_mode": 0,
+    "amount": 10.99,
+    "amount_paid": 10.99,
+    "name": "john doe",
+    "email": "customer@example.com",
+    "address": "Sunny street 25/7",
+    "code": "61-505",
+    "city": "New York",
+    "phone": "123456789",
+    "country": "US",
+    "err": ""
+}
